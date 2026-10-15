@@ -19,6 +19,7 @@ I'm currently focused on building strong fundamentals in **C++, data structures 
 - C++
 - Git
 - GitHub
+- Python/pandas
 - Data Structures & Algorithms
 - Object-Oriented Programming
 
